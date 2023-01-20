@@ -1,0 +1,15 @@
+Sequence of sql files when practiced:
+1) employee
+2) student
+3) database_project
+4) for_joins
+5) for_aggregate
+6) for_groupby
+7) somesqloperations
+8) subquery
+9) functions
+10) commit and rollback
+11) like clause
+12) nth highest salary
+13) cast and convert
+14) view
